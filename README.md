@@ -2,6 +2,8 @@
 
 ![View photo](https://github.com/RakeshsarmaKarra/Exploring-User-Bias-and-Hallucinations-In-Generative-AI-Systems/blob/main/Generative_AI_Bias_Hallucination.jpg)
 
+![View photo](https://github.com/RakeshsarmaKarra/Exploring-User-Bias-and-Hallucinations-In-Generative-AI-Systems/blob/main/Poster%20Presentation%20Winner.jpeg)
+
 # An Investigative Study on Generative AI Platforms
 This research project critically explores how generative AI tools respond to diverse users and prompts, focusing on potential biases, hallucinations, and harmful outputs. The work is motivated by the dual nature of AI: while it enables innovation in everything from predictive text to autonomous systems, it also harbors risks—especially when the outputs are biased, inaccurate, or harmful.
 
@@ -57,3 +59,7 @@ We tested how AI platforms respond:
 - Build diverse and culturally sensitive development teams
 - Emphasize transparency and user explainability
 - Implement multi-stakeholder governance and ethical oversight
+
+  # Achievement
+- 🏆 Achieved **2nd Runner-Up** – Research Poster Presentation at AI in Action Workshop, University of North Texas
+  
