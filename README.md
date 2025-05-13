@@ -62,4 +62,4 @@ We tested how AI platforms respond:
 
   # Achievement
 - 🏆 Achieved **2nd Runner-Up** – Research Poster Presentation at AI in Action Workshop, University of North Texas
-  
+![Achievement](https://github.com/RakeshsarmaKarra/Exploring-User-Bias-and-Hallucinations-In-Generative-AI-Systems/blob/main/Rakeshsarma%20Karra%20-%20Award.pdf)
